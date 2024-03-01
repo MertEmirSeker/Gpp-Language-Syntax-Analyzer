@@ -1,0 +1,8 @@
+(+ 4b1 6b1)
+(def sum x y (+ x y))
+(sum 4b1 6b1)
+(* 4b1 6b1)
+(def square x (* x x))
+(square 5b1)
+(* 4b1 6b1 8b1)
+(exit)
